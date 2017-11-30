@@ -1,0 +1,22 @@
+{
+    "name": "issue-tracking",
+    "version": "1.0.0",
+    "description": "",
+    "main": "package.js",
+    "scripts": {
+      "test": "test"
+    },
+    "author": "aktn",
+    "license": "ISC",
+    "dependencies": {
+      "body-parser": "^1.14.2",
+      "composable-middleware": "^0.3.0",
+      "express": "^4.13.3",
+      "jsonwebtoken": "^5.4.1",
+      "mongoose": "^4.4.10",
+      "mongoose-validate": "git://github.com/RGBboy/mongoose-validate.git",
+      "morgan": "^1.6.1",
+      "path": "^0.12.7"
+    }
+  }
+  
